@@ -166,6 +166,38 @@
     padding-right: 300px;
 }
 
+table {
+    text-align: center;
+    color: #fff;
+    background-color: rgb(69, 0, 126);
+    border-radius: 10px;
+    margin: auto;
+    width: 100%;
+}
+
+table tr {
+    padding: 10px;
+}
+
+table th {
+    padding: 10px;
+}
+
+
+table td {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 0.5em;
+    color: #000;
+}
+
+table button {
+    position: relative;
+    background-color: rgb(191, 155, 219);
+    text-decoration: none;
+}
+
 footer {
     color: #fff;
     width: 100%;
